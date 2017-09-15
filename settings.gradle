@@ -1,2 +1,9 @@
 rootProject.name = 'mybatis'
+include 'e3-common'
+include 'e3-manager'
+include 'e3-manager-dao'
+include 'e3-manager-pojo'
+include 'e3-manager-interface'
+include 'e3-manager-web'
+include 'e3-manager-service'
 

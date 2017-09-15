@@ -10,6 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../mybatis" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-common" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-manager" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

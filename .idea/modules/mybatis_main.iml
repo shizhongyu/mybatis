@@ -6,7 +6,6 @@
         <webroots>
           <root url="file://H:\mybatis\src\main\webapp" relative="/" />
         </webroots>
-        <sourceRoots />
       </configuration>
     </facet>
   </component>

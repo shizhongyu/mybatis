@@ -6,27 +6,137 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___mybatis_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___mybatis_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/src/main/webapp/index.jsp" />
+    <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="e3mall 01 success.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_common_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_common_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_interface_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_interface_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_pojo_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_pojo_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_web_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_web_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_mybatis_mybatis_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-pojo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-pojo/e3-manager-pojo_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-pojo/e3-manager-pojo_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager/e3-manager.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-common/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-common/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemCatMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemCatMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemDescMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemDescMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamItemMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderItemMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderShippingMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderShippingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbUserMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbContentCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemCatMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemDescMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemParamItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemParamMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategoryExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemCat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemCatExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemDesc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemDescExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItemExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderItemExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderShipping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderShippingExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbUser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbUserExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/settings.gradle" afterPath="$PROJECT_DIR$/../mybatis/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/../mybatis/out/" />
     <ignored path="$PROJECT_DIR$/../mybatis/.gradle/" />
     <ignored path="$PROJECT_DIR$/../mybatis/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-common/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-common/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-common/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-dao/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-dao/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-dao/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-interface/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-interface/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-interface/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-web/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-web/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-service/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-service/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-manager-service/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +148,163 @@
     <projectState path="$PROJECT_DIR$/../mybatis">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../mybatis">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../mybatis/e3-manager-web">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis" type="f1a62948:ProjectNode" />
+                <item name="mybatis" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis" type="f1a62948:ProjectNode" />
+                <item name="mybatis" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mybatis" type="f1a62948:ProjectNode" />
+                <item name="mybatis" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mybatis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbOrderShippingMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+              <folding>
+                <marker date="1505454730106" expanded="true" signature="4207:4236" ph="delete from " />
+                <marker date="1505454730106" expanded="true" signature="4416:5031" ph="insert into tb_order_shipping... " />
+                <marker date="1505454730106" expanded="true" signature="7244:7282" ph="select count... tb_order_shipping" />
+                <marker date="1505454730106" expanded="true" signature="9008:9718" ph="update tb_or... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbContentMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbContentCategoryMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbItemParamItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbItemParamExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1121">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mybatis" />
@@ -67,6 +334,34 @@
               <ExternalProjectPojo>
                 <option name="name" value="mybatis" />
                 <option name="path" value="$PROJECT_DIR$/../mybatis" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-common" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-manager" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-manager-dao" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-manager-interface" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-manager-pojo" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-manager-service" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-manager-web" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -139,7 +434,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'mybatis'." />
+                <option name="description" value="Displays the tasks runnable from root project 'mybatis' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -221,11 +516,891 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-common">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-common'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-common'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-manager'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-manager'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-manager'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-manager'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-manager'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-manager'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-manager'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-manager'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-manager'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-dao">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-manager-dao'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-manager-dao'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-manager-dao'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-manager-dao'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-manager-dao'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-manager-dao'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-manager-dao'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-manager-dao'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-manager-dao'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-interface">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-manager-interface'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-manager-interface'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-manager-interface'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-manager-interface'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-manager-interface'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-manager-interface'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-manager-interface'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-manager-interface'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-manager-interface'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-pojo">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-manager-pojo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-manager-pojo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-manager-pojo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-manager-pojo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-manager-pojo'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-manager-pojo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-manager-pojo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-manager-pojo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-manager-pojo'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-service">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-manager-service'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-manager-service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-manager-service'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-manager-service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-manager-service'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-manager-service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-manager-service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-manager-service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-manager-service'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-web">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-manager-web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-manager-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-manager-web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-manager-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-manager-web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-manager-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-manager-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-manager-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-manager-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../mybatis" value="3009849512659" />
+        <entry key="$PROJECT_DIR$/../mybatis" value="12043049363643" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-common/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" value="48634192" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/settings.gradle" value="1471706055" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -239,6 +1414,55 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$/../mybatis" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-common">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-common" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-manager">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-manager-dao">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-manager-interface">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-manager-pojo">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-manager-service">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-manager-web">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -395,6 +1619,17 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/e3/mall/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -408,13 +1643,21 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-74" />
-    <option name="y" value="30" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="29" />
+    <option name="y" value="63" />
+    <option name="width" value="1366" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -430,6 +1673,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -440,28 +1684,62 @@
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3862069" />
+    <property name="SearchEverywhereHistoryKey" value="TbContentCategoryExample&#9;ACTION&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\mybatis\e3-manager-dao\src\main\resources" />
+      <recent name="H:\mybatis\e3-manager-dao\src\main\java" />
+      <recent name="H:\mybatis\e3-manager-pojo\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -632,6 +1910,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="" />
@@ -640,45 +1921,67 @@
       <option name="presentableId" value="Default" />
       <updated>1504924753813</updated>
       <workItem from="1504924758353" duration="101000" />
-      <workItem from="1504964832219" duration="362000" />
+      <workItem from="1504964832219" duration="2167000" />
+      <workItem from="1505367999904" duration="653000" />
+      <workItem from="1505387999267" duration="5489000" />
+      <workItem from="1505442546545" duration="2783000" />
+      <workItem from="1505454473136" duration="1198000" />
     </task>
+    <task id="LOCAL-00001" summary="mybatis.">
+      <created>1504965236107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504965236107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="463000" />
+    <option name="totallyTimeSpent" value="12391000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24158126" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.99838185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.4854369" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21482602" sideWeight="0.5145631" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22919819" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21482602" sideWeight="0.5108108" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -689,12 +1992,314 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mybatis." />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-common/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-common/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <marker date="1505454729386" expanded="true" signature="3933:3952" ph="delete from " />
+            <marker date="1505454729386" expanded="true" signature="4123:4581" ph="insert into tb_item... " />
+            <marker date="1505454729386" expanded="true" signature="6483:6511" ph="select count... tb_item" />
+            <marker date="1505454729386" expanded="true" signature="8012:8565" ph="update tb_it... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategoryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1121">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+          <folding>
+            <marker date="1505454730106" expanded="true" signature="4207:4236" ph="delete from " />
+            <marker date="1505454730106" expanded="true" signature="4416:5031" ph="insert into tb_order_shipping... " />
+            <marker date="1505454730106" expanded="true" signature="7244:7282" ph="select count... tb_order_shipping" />
+            <marker date="1505454730106" expanded="true" signature="9008:9718" ph="update tb_or... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : com.mybatais : mybatis-1.0-SNAPSHOT.war (exploded)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web Gradle : mybatis-1.0-SNAPSHOT.war (mybatis_main)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mybatis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -702,6 +2307,18 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
               </list>
             </option>
           </splitter-proportions>

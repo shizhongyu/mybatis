@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.mybatais : e3-manager-dao-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/../mybatis/e3-manager-dao/build/libs/exploded/e3-manager-dao-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/../mybatis">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-dao/build/libs/exploded/e3-manager-dao-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="e3-manager-dao_main/web/Web Gradle : e3-manager-dao-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="e3-manager-dao_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-dao/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="com.mybatais-e3-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="e3-manager-pojo_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/out/production/resources" />
+          </element>
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.5/5200759b13f70652995fd206a52fdc98b01c65cd/mybatis-3.4.5.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -2,6 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="e3-common_main" target="1.8" />
+      <module name="e3-common_test" target="1.8" />
+      <module name="e3-manager-dao_main" target="1.8" />
+      <module name="e3-manager-dao_test" target="1.8" />
+      <module name="e3-manager-interface_main" target="1.8" />
+      <module name="e3-manager-interface_test" target="1.8" />
+      <module name="e3-manager-pojo_main" target="1.8" />
+      <module name="e3-manager-pojo_test" target="1.8" />
+      <module name="e3-manager-service_main" target="1.8" />
+      <module name="e3-manager-service_test" target="1.8" />
+      <module name="e3-manager-web_main" target="1.8" />
+      <module name="e3-manager-web_test" target="1.8" />
+      <module name="e3-manager_main" target="1.8" />
+      <module name="e3-manager_test" target="1.8" />
       <module name="mybatis_main" target="1.8" />
       <module name="mybatis_test" target="1.8" />
     </bytecodeTargetLevel>
