@@ -18,5 +18,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="e3-common_main" />
+    <orderEntry type="module" module-name="e3-manager-pojo_main" />
   </component>
 </module>

@@ -2,116 +2,156 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Gradle : com.mybatais : mybatis-1.0-SNAPSHOT.war (exploded)" />
+      <artifact name="Gradle : com.mybatais : e3-manager-web-1.0-SNAPSHOT.war (exploded)" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="e3mall 01 success.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_common_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_common_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_interface_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_interface_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_pojo_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_pojo_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_web_1_0_SNAPSHOT_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_web_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-pojo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-pojo/e3-manager-pojo_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-pojo/e3-manager-pojo_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager/e3-manager.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-common/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-common/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemCatMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemCatMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemDescMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemDescMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamItemMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderItemMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderShippingMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderShippingMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbUserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbUserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbContentCategoryMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbContentMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemCatMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemDescMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemParamItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemParamMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbUserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategoryExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemCat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemCatExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemDesc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemDescExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParam.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItemExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderItemExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderShipping.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderShippingExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbUserExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__aspectj_aspectjrt_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_alibaba_druid_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_alibaba_dubbo_2_5_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_jsqlparser_jsqlparser_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_miemiedev_mybatis_paginator_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_pagehelper_pagehelper_5_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_sgroschupf_zkclient_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__io_netty_netty_3_10_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__jline_jline_0_9_94.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__mysql_mysql_connector_java_6_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_apache_zookeeper_zookeeper_3_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_apache_zookeeper_zookeeper_pom_3_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_aspectj_aspectjrt_1_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_jboss_netty_netty_3_2_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_context_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_context_support_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_core_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_orm_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_oxm_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_tx_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_web_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-common/src/main/java/cn/e3mall/common/pojo/EasyUIDataGridResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbContentCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbItemCatMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbItemDescMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbItemParamItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbItemParamMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbOrderItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbOrderMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbOrderShippingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/conf/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbContentCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbItemCatMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbItemDescMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbItemParamItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbItemParamMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbOrderItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbOrderMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbOrderShippingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-trans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemCatMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemDescMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamItemMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderItemMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderShippingMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbUserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_interface_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_interface_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_web_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_web_1_0_SNAPSHOT_war__exploded_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-interface/e3-manager-interface_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/settings.gradle" afterPath="$PROJECT_DIR$/../mybatis/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbContentCategoryMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbContentMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemCatMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemCatMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemDescMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemDescMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamItemMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemParamItemMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemParamMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemParamMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderItemMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbOrderItemMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbOrderMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbOrderShippingMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbOrderShippingMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbUserMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbUserMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbContentCategoryMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbContentCategoryMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbContentMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbContentMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemCatMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemCatMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemDescMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemDescMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemParamItemMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemParamItemMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbItemParamMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemParamMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderItemMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbOrderItemMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbOrderMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbOrderShippingMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbUserMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbUserMapper.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbContent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategory.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbContentCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategoryExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbContentCategoryExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbContentExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItem.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemCat.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemCat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemCatExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemCatExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemDesc.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemDesc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemDescExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemDescExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParam.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemParam.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemParamExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemParamItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItemExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItemParamItemExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrder.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbOrderExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderItem.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbOrderItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderItemExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbOrderItemExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderShipping.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbOrderShipping.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbOrderShippingExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbOrderShippingExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbUser.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbUser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbUserExample.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbUserExample.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../mybatis/out/" />
     <ignored path="$PROJECT_DIR$/../mybatis/.gradle/" />
@@ -144,6 +184,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/../mybatis">
       <ProjectState />
@@ -165,24 +216,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="mybatis" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mybatis" type="f1a62948:ProjectNode" />
-                <item name="mybatis" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mybatis" type="f1a62948:ProjectNode" />
-                <item name="mybatis" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mybatis" type="f1a62948:ProjectNode" />
-                <item name="mybatis" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -195,110 +228,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbOrderShippingMapper.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
-              <folding>
-                <marker date="1505454730106" expanded="true" signature="4207:4236" ph="delete from " />
-                <marker date="1505454730106" expanded="true" signature="4416:5031" ph="insert into tb_order_shipping... " />
-                <marker date="1505454730106" expanded="true" signature="7244:7282" ph="select count... tb_order_shipping" />
-                <marker date="1505454730106" expanded="true" signature="9008:9718" ph="update tb_or... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbContentMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbContentCategoryMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbContent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItemParamItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItemParamExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1121">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="110">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -306,18 +252,38 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mybatis</find>
+      <find>pagehelper</find>
+      <find>mysql</find>
+      <find>log4</find>
+      <find>4.3.9</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>4.3.10</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mybatis" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$/../mybatis" value="H:\Android\gradle-3.3-all\gradle-3.3" />
+        <entry key="$PROJECT_DIR$/../mybatis" value="H:\Android\gradle-4.1" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$/../mybatis" value="3.3" />
+        <entry key="$PROJECT_DIR$/../mybatis" value="4.1" />
       </map>
     </option>
     <option name="availableProjects">
@@ -404,7 +370,7 @@
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
@@ -439,7 +405,7 @@
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="description" value="Initializes a new Gradle build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
@@ -1392,13 +1358,14 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../mybatis" value="12043049363643" />
+        <entry key="$PROJECT_DIR$/../mybatis" value="12045350174284" />
+        <entry key="$PROJECT_DIR$/../mybatis/build.gradle" value="3048562291" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-common/build.gradle" value="3497436308" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" value="48634192" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" value="1286506801" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" value="3037594821" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle" value="3497436308" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" value="3497436308" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" value="1019703587" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" value="960812999" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-manager/build.gradle" value="3497436308" />
         <entry key="$PROJECT_DIR$/../mybatis/settings.gradle" value="1471706055" />
       </map>
@@ -1471,141 +1438,138 @@
               <option name="name" value="mybatis" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/announce" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/antlr" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/base-services" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/base-services-groovy" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/build-cache-http" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/build-comparison" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/build-init" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/cli" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/code-quality" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/composite-builds" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/core" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/dependency-management" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/diagnostics" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/ear" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/ide" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/ide-native" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/ide-play" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/installation-beacon" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/internal-android-performance-testing" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/internal-integ-testing" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/internal-performance-testing" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/internal-testing" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/ivy" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/jacoco" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/javascript" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/jetty" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/jvm-services" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/language-groovy" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/language-java" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/language-jvm" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/language-native" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/language-scala" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/launcher" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/logging" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/maven" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/messaging" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/model-core" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/model-groovy" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/native" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/open-api" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/osgi" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/platform-base" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/platform-jvm" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/platform-native" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/platform-play" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/plugin-development" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/plugin-use" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/plugins" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/process-services" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/publish" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/reporting" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/resources" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/resources-http" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/resources-s3" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/resources-sftp" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/scala" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/signing" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/test-kit" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/testing-base" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/testing-jvm" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/testing-native" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/tooling-api" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/tooling-api-builders" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/ui" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/workers" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/src/wrapper" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/ant-1.9.6.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/ant-launcher-1.9.6.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-base-services-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-base-services-groovy-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-cli-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-core-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-docs-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-installation-beacon-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-jvm-services-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-launcher-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-logging-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-messaging-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-model-core-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-model-groovy-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-native-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-open-api-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-process-services-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-resources-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-script-kotlin-0.5.1.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-tooling-api-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-ui-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-version-info-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/gradle-wrapper-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/groovy-all-2.4.7.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-announce-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-antlr-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-build-cache-http-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-build-comparison-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-build-init-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-code-quality-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-composite-builds-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-dependency-management-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-diagnostics-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-ear-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-ide-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-ide-native-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-ide-play-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-ivy-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-jacoco-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-javascript-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-jetty-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-language-groovy-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-language-java-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-language-jvm-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-language-native-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-language-scala-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-maven-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-osgi-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-platform-base-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-platform-jvm-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-platform-native-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-platform-play-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-plugin-development-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-plugin-use-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-plugins-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-publish-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-reporting-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-resources-http-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-resources-s3-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-resources-sftp-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-scala-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-signing-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-test-kit-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-testing-base-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-testing-jvm-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-testing-native-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-tooling-api-builders-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/gradle-workers-3.3.jar" />
-                  <option value="$PROJECT_DIR$/../Android/gradle-3.3-all/gradle-3.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/announce" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/antlr" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/base-services" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/base-services-groovy" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/build-cache-http" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/build-comparison" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/build-init" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/cli" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/code-quality" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/composite-builds" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/core" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/dependency-management" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/diagnostics" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/ear" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/ide" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/ide-native" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/ide-play" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/installation-beacon" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/internal-android-performance-testing" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/internal-integ-testing" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/internal-performance-testing" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/internal-testing" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/ivy" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/jacoco" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/javascript" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/jvm-services" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/language-groovy" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/language-java" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/language-jvm" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/language-native" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/language-scala" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/launcher" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/logging" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/maven" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/messaging" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/model-core" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/model-groovy" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/native" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/osgi" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/platform-base" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/platform-jvm" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/platform-native" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/platform-play" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/plugin-development" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/plugin-use" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/plugins" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/process-services" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/publish" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/reporting" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/resources" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/resources-http" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/resources-s3" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/resources-sftp" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/scala" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/signing" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/test-kit" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/testing-base" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/testing-jvm" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/testing-native" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/tooling-api" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/tooling-api-builders" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/workers" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/src/wrapper" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/ant-1.9.6.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-base-services-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-base-services-groovy-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-cli-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-core-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-docs-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-installation-beacon-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-jvm-services-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-kotlin-dsl-0.10.3.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-kotlin-dsl-compiler-plugin-0.10.3.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-kotlin-dsl-tooling-builders-0.10.3.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-kotlin-dsl-tooling-models-0.10.3.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-launcher-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-logging-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-messaging-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-model-core-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-model-groovy-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-native-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-process-services-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-resources-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-runtime-api-info-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-tooling-api-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/gradle-wrapper-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/groovy-all-2.4.11.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-announce-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-antlr-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-build-cache-http-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-build-comparison-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-build-init-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-code-quality-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-composite-builds-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-dependency-management-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-diagnostics-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-ear-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-ide-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-ide-native-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-ide-play-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-ivy-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-jacoco-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-javascript-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-language-groovy-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-language-java-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-language-jvm-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-language-native-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-language-scala-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-maven-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-osgi-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-platform-base-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-platform-jvm-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-platform-native-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-platform-play-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-plugin-development-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-plugin-use-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-plugins-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-publish-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-reporting-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-resources-http-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-resources-s3-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-resources-sftp-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-scala-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-signing-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-test-kit-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-testing-base-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-testing-jvm-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-testing-native-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-tooling-api-builders-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/gradle-workers-4.1.jar" />
+                  <option value="$PROJECT_DIR$/../Android/gradle-4.1/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/../mybatis/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/../mybatis/buildSrc/src/main/groovy" />
                 </list>
@@ -1626,6 +1590,27 @@
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/e3/mall/mapper/TbItemMapper.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-common/src/main/java/e3mall/common/pojo/EasyUIDataGridResult.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemMapper.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/conf/db.properties" />
+        <option value="$PROJECT_DIR$/../mybatis/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/two.jsp" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-transs.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-dao.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" />
       </list>
     </option>
@@ -1650,8 +1635,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="29" />
-    <option name="y" value="63" />
+    <option name="x" value="-107" />
+    <option name="y" value="25" />
     <option name="width" value="1366" />
     <option name="height" value="738" />
   </component>
@@ -1684,61 +1669,125 @@
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-dao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-dao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-dao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="e3-manager-pojo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-dao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-dao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatismapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3862069" />
-    <property name="SearchEverywhereHistoryKey" value="TbContentCategoryExample&#9;ACTION&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="Tbitem&#9;FILE&#9;file://H:/mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItem.java&#10;web.xm&#9;FILE&#9;file://H:/mybatis/.idea/modules/e3-manager-dao/WEB-INF/web.xml&#10;web&#9;FILE&#9;file://H:/mybatis/e3-manager-web/src/main/webapp/WEB-INF/web.xml&#10;TbItemMapper&#9;FILE&#9;file://H:/mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemMapper.java&#10;web.xml&#9;FILE&#9;file://H:/mybatis/e3-manager-web/src/main/webapp/WEB-INF/web.xml&#10;web.x&#9;FILE&#9;file://H:/mybatis/e3-manager-web/src/main/webapp/WEB-INF/web.xml&#10;.gradle&#9;FILE&#9;file://H:/mybatis/e3-manager-dao/build.gradle&#10;ItemService&#9;FILE&#9;file://H:/mybatis/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java&#10;TbContentCategoryExample&#9;ACTION&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm-easy-template-master" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="mybatis" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\mybatis\e3-manager-dao\src\main\resources" />
+      <recent name="H:\mybatis\e3-manager-web\src\main\resources\mybatismapper" />
       <recent name="H:\mybatis\e3-manager-dao\src\main\java" />
-      <recent name="H:\mybatis\e3-manager-pojo\src\main\java" />
+      <recent name="H:\mybatis\e3-manager-dao\src\main\resources" />
+      <recent name="H:\mybatis\e3-manager-dao\src\main\resources\mybatismapper" />
+      <recent name="H:\mybatis\e3-manager-web\src\main\resources\mybatis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\mybatis\e3-manager-dao\src\main\resources\cn.e3mall.mapper" />
+      <recent name="H:\mybatis\e3-manager-dao\src\main\resources\mybatismapper" />
+      <recent name="H:\mybatis\e3-manager-web\src\main\resources\mybatismapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1753,7 +1802,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.ssm">
+  <component name="RunManager" selected="Tomcat Server.ssm-web">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -1834,7 +1883,82 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="ssm-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.mybatais : e3-manager-web-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatis_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3811" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.mybatais : e3-manager-web-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
     <configuration name="ssm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8083/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Gradle : com.mybatais : mybatis-1.0-SNAPSHOT.war (exploded)">
@@ -1845,6 +1969,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatis" />
+        <option name="HTTP_PORT" value="8083" />
+        <option name="JNDI_PORT" value="1098" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -1906,6 +2032,10 @@
         </option>
       </method>
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.ssm" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.ssm-web" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1925,7 +2055,20 @@
       <workItem from="1505367999904" duration="653000" />
       <workItem from="1505387999267" duration="5489000" />
       <workItem from="1505442546545" duration="2783000" />
-      <workItem from="1505454473136" duration="1198000" />
+      <workItem from="1505454473136" duration="3296000" />
+      <workItem from="1505529669541" duration="3678000" />
+      <workItem from="1505566656394" duration="2352000" />
+      <workItem from="1505615584264" duration="1184000" />
+      <workItem from="1505638823024" duration="2194000" />
+      <workItem from="1505702851250" duration="1578000" />
+      <workItem from="1505725525208" duration="3273000" />
+      <workItem from="1505738686101" duration="643000" />
+      <workItem from="1505790264731" duration="16969000" />
+      <workItem from="1505819368748" duration="8501000" />
+      <workItem from="1505874885600" duration="10998000" />
+      <workItem from="1505900630907" duration="905000" />
+      <workItem from="1505908853551" duration="2304000" />
+      <workItem from="1505911274278" duration="6528000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis.">
       <created>1504965236107</created>
@@ -1934,11 +2077,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504965236107</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="e3mall 01 success.">
+      <created>1505455755219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505455755220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12391000" />
+    <option name="totallyTimeSpent" value="75596000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1959,23 +2109,25 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24158126" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46278316" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49514562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.99838185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.4854369" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68608415" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49514562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28971255" sideWeight="0.4854369" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21482602" sideWeight="0.5145631" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22919819" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1172466" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21482602" sideWeight="0.5108108" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1983,21 +2135,49 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mybatis." />
-    <option name="LAST_COMMIT_MESSAGE" value="mybatis." />
+    <MESSAGE value="e3mall 01 success." />
+    <option name="LAST_COMMIT_MESSAGE" value="e3mall 01 success." />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -2005,234 +2185,373 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-common/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/PageController.java" />
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.9.RELEASE/d40a14cdad9b34e6bc1a547345fb16d8fe3092c0/spring-webmvc-4.3.9.RELEASE-sources.jar!/org/springframework/web/servlet/view/InternalResourceViewResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
+    <entry file="file://$PROJECT_DIR$/../mybatis/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/two.jsp" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
+    <entry file="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.10.RELEASE/e350109ba4a031049863e3e9d9f3d386ef73cfd9/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="475">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.10.RELEASE/c576aed96473eeeed65403aa0f21e6fc6fb2b4d9/spring-jdbc-4.3.10.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-common/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-interface/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
-          <folding>
-            <marker date="1505454729386" expanded="true" signature="3933:3952" ph="delete from " />
-            <marker date="1505454729386" expanded="true" signature="4123:4581" ph="insert into tb_item... " />
-            <marker date="1505454729386" expanded="true" signature="6483:6511" ph="select count... tb_item" />
-            <marker date="1505454729386" expanded="true" signature="8012:8565" ph="update tb_it... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContentCategoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentCategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/com/e3mall/mapper/TbContentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="197">
+          <caret line="109" column="13" lean-forward="false" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <caret line="23" column="88" lean-forward="true" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="88" lean-forward="false" selection-start-line="5" selection-start-column="88" selection-end-line="5" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbContent.java">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-transs.xml" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="360">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamItem.java">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbItemMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="-4240">
+          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/com/e3mall/pojo/TbItemParamExample.java">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/mybatismapper/TbContentMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1121">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbContentCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479118974000" expanded="true" signature="3963:4065" ph="select from tb_item" />
+            <marker date="1479118974000" expanded="true" signature="4149:4205" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4300:4319" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4491:4949" ph="insert into tb_item... " />
+            <marker date="1479118974000" expanded="true" signature="6878:6906" ph="select count... tb_item" />
+            <marker date="1479118974000" expanded="true" signature="8423:8976" ph="update tb_it... " />
+            <marker date="1479118974000" expanded="true" signature="9179:10156" ph="update tb_it... " />
+            <marker date="1479118974000" expanded="true" signature="10247:10726" ph="update tb_it... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/mybatismapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1960">
+          <caret line="7" column="67" lean-forward="false" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbOrderShippingMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/src/main/java/cn/e3mall/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-common/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/cn/e3mall/mapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479118974000" expanded="true" signature="3811:3925" ph="select from tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="4009:4077" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4183:4214" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4397:4764" ph="insert into tb_content_category... " />
+            <marker date="1479118974000" expanded="true" signature="6334:6374" ph="select count... tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="7617:8051" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="8265:9010" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="9112:9493" ph="update tb_co... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-common/src/main/java/cn/e3mall/common/pojo/EasyUIDataGridResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <marker date="1505911504869" expanded="true" signature="655:796" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/mybatis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/java/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbContentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3680">
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <marker date="1479118974000" expanded="true" signature="3811:3925" ph="select from tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="4009:4077" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4183:4214" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4397:4764" ph="insert into tb_content_category... " />
+            <marker date="1479118974000" expanded="true" signature="6334:6374" ph="select count... tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="7617:8051" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="8265:9010" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="9112:9493" ph="update tb_co... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="237" column="34" lean-forward="true" selection-start-line="237" selection-start-column="34" selection-end-line="237" selection-end-column="34" />
+          <folding>
+            <marker date="1479118974000" expanded="true" signature="3811:3925" ph="select from tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="4009:4077" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4183:4214" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4397:4764" ph="insert into tb_content_category... " />
+            <marker date="1479118974000" expanded="true" signature="6334:6374" ph="select count... tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="7617:8051" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="8265:9010" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="9112:9493" ph="update tb_co... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="110">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/TbOrderShippingMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="71" lean-forward="true" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
-          <folding>
-            <marker date="1505454730106" expanded="true" signature="4207:4236" ph="delete from " />
-            <marker date="1505454730106" expanded="true" signature="4416:5031" ph="insert into tb_order_shipping... " />
-            <marker date="1505454730106" expanded="true" signature="7244:7282" ph="select count... tb_order_shipping" />
-            <marker date="1505454730106" expanded="true" signature="9008:9718" ph="update tb_or... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2290,7 +2609,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>mybatis</last-edited>
+          <last-edited>Web Gradle : e3-manager-dao-1.0-SNAPSHOT.war|e3-manager-dao_main|e3-manager-dao</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2314,7 +2633,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <last-edited>Gradle: com.alibaba:druid:1.1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

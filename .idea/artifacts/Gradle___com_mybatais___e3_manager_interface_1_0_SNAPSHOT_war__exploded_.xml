@@ -16,6 +16,16 @@
           <element id="module-output" name="e3-manager-interface_main" />
           <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-interface/out/production/resources" />
         </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="com.mybatais-e3-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="e3-common_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-common/out/production/resources" />
+          </element>
+          <element id="archive" name="com.mybatais-e3-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="e3-manager-pojo_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/out/production/resources" />
+          </element>
+        </element>
       </element>
     </root>
   </artifact>
