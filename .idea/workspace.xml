@@ -7,23 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_pagehelper_pagehelper_4_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/index.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_jsqlparser_jsqlparser_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/.idea/libraries/Gradle__com_github_pagehelper_pagehelper_5_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_dao_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-service/e3-manager-service_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbContentCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbItemCatMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbItemDescMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbItemParamItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbItemParamMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbOrderItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbOrderMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbOrderShippingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbUserMapper.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatis/SqlMapConfig.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatis/SqlMapConfig.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java" afterPath="$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../mybatis/out/" />
     <ignored path="$PROJECT_DIR$/../mybatis/.gradle/" />
@@ -156,18 +151,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageHelper.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pagehelper/pagehelper/5.1.2/a649979f33b3cb8e34be478df2bb56a23ff49abd/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/PageHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -198,12 +181,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="110">
+              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbContentCategoryMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbContentCategoryMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <marker date="1479118974000" expanded="true" signature="3811:3925" ph="select from tb_content_category" />
+                <marker date="1479118974000" expanded="true" signature="4009:4077" ph="delete from " />
+                <marker date="1479118974000" expanded="true" signature="4183:4214" ph="delete from " />
+                <marker date="1479118974000" expanded="true" signature="4397:4764" ph="insert into tb_content_category... " />
+                <marker date="1479118974000" expanded="true" signature="6334:6374" ph="select count... tb_content_category" />
+                <marker date="1479118974000" expanded="true" signature="7617:8051" ph="update tb_co... " />
+                <marker date="1479118974000" expanded="true" signature="8265:9010" ph="update tb_co... " />
+                <marker date="1479118974000" expanded="true" signature="9112:9493" ph="update tb_co... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1660,7 +1672,92 @@
           <expand>
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-dao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatismapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1993,7 +2090,7 @@
       <workItem from="1506434943294" duration="622000" />
       <workItem from="1506438623725" duration="3337000" />
       <workItem from="1506482100535" duration="7454000" />
-      <workItem from="1506493610121" duration="8366000" />
+      <workItem from="1506493610121" duration="8533000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis.">
       <created>1504965236107</created>
@@ -2023,11 +2120,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506483338888</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="e3mall 02 success.">
+      <created>1506504780736</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506504780736</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137660000" />
+    <option name="totallyTimeSpent" value="137827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2114,7 +2218,8 @@
     <MESSAGE value="e3mall 01 success." />
     <MESSAGE value="dubbo zookeeper success." />
     <MESSAGE value="dubbo success." />
-    <option name="LAST_COMMIT_MESSAGE" value="dubbo success." />
+    <MESSAGE value="e3mall 02 success." />
+    <option name="LAST_COMMIT_MESSAGE" value="e3mall 02 success." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2147,13 +2252,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/src/main/resources/cn.e3mall.mapper/TbContentCategoryMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3680">
-          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/mybatismapper/TbContentCategoryMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -2165,13 +2263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2274,6 +2365,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2297,6 +2389,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="23" column="48" lean-forward="false" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <marker date="1479118974000" expanded="true" signature="3963:4065" ph="select from tb_item" />
+            <marker date="1479118974000" expanded="true" signature="4149:4205" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4300:4319" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4491:4949" ph="insert into tb_item... " />
+            <marker date="1479118974000" expanded="true" signature="6878:6906" ph="select count... tb_item" />
+            <marker date="1479118974000" expanded="true" signature="8423:8976" ph="update tb_it... " />
+            <marker date="1479118974000" expanded="true" signature="9179:10156" ph="update tb_it... " />
+            <marker date="1479118974000" expanded="true" signature="10247:10726" ph="update tb_it... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2489,9 +2591,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/ItemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/mybatismapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <marker date="1479118974000" expanded="true" signature="3811:3925" ph="select from tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="4009:4077" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4183:4214" ph="delete from " />
+            <marker date="1479118974000" expanded="true" signature="4397:4764" ph="insert into tb_content_category... " />
+            <marker date="1479118974000" expanded="true" signature="6334:6374" ph="select count... tb_content_category" />
+            <marker date="1479118974000" expanded="true" signature="7617:8051" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="8265:9010" ph="update tb_co... " />
+            <marker date="1479118974000" expanded="true" signature="9112:9493" ph="update tb_co... " />
+          </folding>
         </state>
       </provider>
     </entry>
