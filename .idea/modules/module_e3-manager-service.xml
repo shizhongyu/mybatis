@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_e3-manager-service" default="compile.module.e3-manager-service">
+  <dirname property="module.e3-manager-service.basedir" file="${ant.file.module_e3-manager-service}"/>
+  
+  <property name="module.jdk.home.e3-manager-service" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.e3-manager-service" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.e3-manager-service" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.e3-manager-service" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="e3-manager-service.output.dir" value="${module.e3-manager-service.basedir}/../../out/production/e3-manager-service"/>
+  <property name="e3-manager-service.testoutput.dir" value="${module.e3-manager-service.basedir}/../../out/test/e3-manager-service"/>
+  
+  <path id="e3-manager-service.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="e3-manager-service.module.production.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-service}"/>
+  </path>
+  
+  <path id="e3-manager-service.runtime.production.module.classpath">
+    <pathelement location="${e3-manager-service.output.dir}"/>
+  </path>
+  
+  <path id="e3-manager-service.module.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-service}"/>
+    <pathelement location="${e3-manager-service.output.dir}"/>
+  </path>
+  
+  <path id="e3-manager-service.runtime.module.classpath">
+    <pathelement location="${e3-manager-service.testoutput.dir}"/>
+    <pathelement location="${e3-manager-service.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.e3-manager-service">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.e3-manager-service">
+    <patternset refid="excluded.from.module.e3-manager-service"/>
+  </patternset>
+  
+  
+  <target name="compile.module.e3-manager-service" depends="compile.module.e3-manager-service.production,compile.module.e3-manager-service.tests" description="Compile module e3-manager-service"/>
+  
+  <target name="compile.module.e3-manager-service.production" depends="register.custom.compilers" description="Compile module e3-manager-service; production classes"/>
+  
+  <target name="compile.module.e3-manager-service.tests" depends="register.custom.compilers,compile.module.e3-manager-service.production" description="compile module e3-manager-service; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.e3-manager-service" description="cleanup module">
+    <delete dir="${e3-manager-service.output.dir}"/>
+    <delete dir="${e3-manager-service.testoutput.dir}"/>
+  </target>
+</project>

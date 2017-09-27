@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_e3-manager-interface_test" default="compile.module.e3-manager-interface_test">
+  <dirname property="module.e3-manager-interface_test.basedir" file="${ant.file.module_e3-manager-interface_test}"/>
+  
+  <property name="module.jdk.home.e3-manager-interface_test" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.e3-manager-interface_test" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.e3-manager-interface_test" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.e3-manager-interface_test" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="e3-manager-interface_test.output.dir" value="undefined"/>
+  <property name="e3-manager-interface_test.testoutput.dir" value="${module.e3-manager-interface_test.basedir}/../../../e3-manager-interface/out/test/classes"/>
+  
+  <path id="e3-manager-interface_test.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="e3-manager-interface_test.module.production.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-interface_test}"/>
+    <pathelement location="${e3-manager-interface_main.output.dir}"/>
+    <pathelement location="${e3-common_main.output.dir}"/>
+    <pathelement location="${e3-manager-pojo_main.output.dir}"/>
+    <path refid="library.gradle:_junit:junit:4.12.classpath"/>
+    <path refid="library.gradle:_org.hamcrest:hamcrest-core:1.3.classpath"/>
+  </path>
+  
+  <path id="e3-manager-interface_test.runtime.production.module.classpath">
+    <path refid="e3-manager-interface_main.runtime.production.module.classpath"/>
+    <path refid="e3-common_main.runtime.production.module.classpath"/>
+    <path refid="e3-manager-pojo_main.runtime.production.module.classpath"/>
+    <path refid="library.gradle:_junit:junit:4.12.classpath"/>
+    <path refid="library.gradle:_org.hamcrest:hamcrest-core:1.3.classpath"/>
+  </path>
+  
+  <path id="e3-manager-interface_test.module.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-interface_test}"/>
+    <pathelement location="${e3-manager-interface_main.output.dir}"/>
+    <pathelement location="${e3-common_main.output.dir}"/>
+    <pathelement location="${e3-manager-pojo_main.output.dir}"/>
+    <path refid="library.gradle:_junit:junit:4.12.classpath"/>
+    <path refid="library.gradle:_org.hamcrest:hamcrest-core:1.3.classpath"/>
+  </path>
+  
+  <path id="e3-manager-interface_test.runtime.module.classpath">
+    <pathelement location="${e3-manager-interface_test.testoutput.dir}"/>
+    <path refid="e3-manager-interface_main.runtime.module.classpath"/>
+    <path refid="e3-common_main.runtime.module.classpath"/>
+    <path refid="e3-manager-pojo_main.runtime.module.classpath"/>
+    <path refid="library.gradle:_junit:junit:4.12.classpath"/>
+    <path refid="library.gradle:_org.hamcrest:hamcrest-core:1.3.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.e3-manager-interface_test">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.e3-manager-interface_test">
+    <patternset refid="excluded.from.module.e3-manager-interface_test"/>
+  </patternset>
+  
+  
+  <target name="compile.module.e3-manager-interface_test" depends="compile.module.e3-manager-interface_test.production,compile.module.e3-manager-interface_test.tests" description="Compile module e3-manager-interface_test"/>
+  
+  <target name="compile.module.e3-manager-interface_test.production" depends="register.custom.compilers,compile.module.e3-manager-interface_main,compile.module.e3-common_main,compile.module.e3-manager-pojo_main" description="Compile module e3-manager-interface_test; production classes"/>
+  
+  <target name="compile.module.e3-manager-interface_test.tests" depends="register.custom.compilers,compile.module.e3-manager-interface_test.production" description="compile module e3-manager-interface_test; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.e3-manager-interface_test" description="cleanup module">
+    <delete dir="${e3-manager-interface_test.output.dir}"/>
+    <delete dir="${e3-manager-interface_test.testoutput.dir}"/>
+  </target>
+</project>

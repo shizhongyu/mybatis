@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_mybatis_main" default="compile.module.mybatis_main">
+  <dirname property="module.mybatis_main.basedir" file="${ant.file.module_mybatis_main}"/>
+  
+  <property name="module.jdk.home.mybatis_main" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.mybatis_main" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.mybatis_main" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.mybatis_main" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="mybatis_main.output.dir" value="${module.mybatis_main.basedir}/../../out/production/classes"/>
+  <property name="mybatis_main.testoutput.dir" value="${module.mybatis_main.basedir}/../../out/production/classes"/>
+  
+  <path id="mybatis_main.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="mybatis_main.module.production.classpath">
+    <path refid="${module.jdk.classpath.mybatis_main}"/>
+  </path>
+  
+  <path id="mybatis_main.runtime.production.module.classpath">
+    <pathelement location="${mybatis_main.output.dir}"/>
+  </path>
+  
+  <path id="mybatis_main.module.classpath">
+    <path refid="${module.jdk.classpath.mybatis_main}"/>
+    <pathelement location="${mybatis_main.output.dir}"/>
+  </path>
+  
+  <path id="mybatis_main.runtime.module.classpath">
+    <pathelement location="${mybatis_main.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.mybatis_main">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.mybatis_main">
+    <patternset refid="excluded.from.module.mybatis_main"/>
+  </patternset>
+  
+  <path id="mybatis_main.module.sourcepath">
+    <dirset dir="${module.mybatis_main.basedir}/../../src/main">
+      <include name="java"/>
+      <include name="resources"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.mybatis_main" depends="compile.module.mybatis_main.production,compile.module.mybatis_main.tests" description="Compile module mybatis_main"/>
+  
+  <target name="compile.module.mybatis_main.production" depends="register.custom.compilers" description="Compile module mybatis_main; production classes">
+    <mkdir dir="${mybatis_main.output.dir}"/>
+    <javac2 destdir="${mybatis_main.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.mybatis_main}/javac">
+      <compilerarg line="${compiler.args.mybatis_main}"/>
+      <bootclasspath refid="mybatis_main.module.bootclasspath"/>
+      <classpath refid="mybatis_main.module.production.classpath"/>
+      <src refid="mybatis_main.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.mybatis_main"/>
+    </javac2>
+    
+    <copy todir="${mybatis_main.output.dir}">
+      <fileset dir="${module.mybatis_main.basedir}/../../src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mybatis_main.basedir}/../../src/main/resources">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.mybatis_main.tests" depends="register.custom.compilers,compile.module.mybatis_main.production" description="compile module mybatis_main; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.mybatis_main" description="cleanup module">
+    <delete dir="${mybatis_main.output.dir}"/>
+    <delete dir="${mybatis_main.testoutput.dir}"/>
+  </target>
+</project>

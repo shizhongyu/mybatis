@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_e3-manager-web" default="compile.module.e3-manager-web">
+  <dirname property="module.e3-manager-web.basedir" file="${ant.file.module_e3-manager-web}"/>
+  
+  <property name="module.jdk.home.e3-manager-web" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.e3-manager-web" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.e3-manager-web" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.e3-manager-web" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="e3-manager-web.output.dir" value="${module.e3-manager-web.basedir}/../../out/production/e3-manager-web"/>
+  <property name="e3-manager-web.testoutput.dir" value="${module.e3-manager-web.basedir}/../../out/test/e3-manager-web"/>
+  
+  <path id="e3-manager-web.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="e3-manager-web.module.production.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-web}"/>
+  </path>
+  
+  <path id="e3-manager-web.runtime.production.module.classpath">
+    <pathelement location="${e3-manager-web.output.dir}"/>
+  </path>
+  
+  <path id="e3-manager-web.module.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-web}"/>
+    <pathelement location="${e3-manager-web.output.dir}"/>
+  </path>
+  
+  <path id="e3-manager-web.runtime.module.classpath">
+    <pathelement location="${e3-manager-web.testoutput.dir}"/>
+    <pathelement location="${e3-manager-web.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.e3-manager-web">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.e3-manager-web">
+    <patternset refid="excluded.from.module.e3-manager-web"/>
+  </patternset>
+  
+  
+  <target name="compile.module.e3-manager-web" depends="compile.module.e3-manager-web.production,compile.module.e3-manager-web.tests" description="Compile module e3-manager-web"/>
+  
+  <target name="compile.module.e3-manager-web.production" depends="register.custom.compilers" description="Compile module e3-manager-web; production classes"/>
+  
+  <target name="compile.module.e3-manager-web.tests" depends="register.custom.compilers,compile.module.e3-manager-web.production" description="compile module e3-manager-web; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.e3-manager-web" description="cleanup module">
+    <delete dir="${e3-manager-web.output.dir}"/>
+    <delete dir="${e3-manager-web.testoutput.dir}"/>
+  </target>
+</project>

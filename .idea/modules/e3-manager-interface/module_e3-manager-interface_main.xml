@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_e3-manager-interface_main" default="compile.module.e3-manager-interface_main">
+  <dirname property="module.e3-manager-interface_main.basedir" file="${ant.file.module_e3-manager-interface_main}"/>
+  
+  <property name="module.jdk.home.e3-manager-interface_main" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.e3-manager-interface_main" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.e3-manager-interface_main" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.e3-manager-interface_main" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="e3-manager-interface_main.output.dir" value="${module.e3-manager-interface_main.basedir}/../../../e3-manager-interface/out/production/classes"/>
+  <property name="e3-manager-interface_main.testoutput.dir" value="${module.e3-manager-interface_main.basedir}/../../../e3-manager-interface/out/production/classes"/>
+  
+  <path id="e3-manager-interface_main.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="e3-manager-interface_main.module.production.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-interface_main}"/>
+    <pathelement location="${e3-common_main.output.dir}"/>
+    <pathelement location="${e3-manager-pojo_main.output.dir}"/>
+  </path>
+  
+  <path id="e3-manager-interface_main.runtime.production.module.classpath">
+    <pathelement location="${e3-manager-interface_main.output.dir}"/>
+    <path refid="e3-common_main.runtime.production.module.classpath"/>
+    <path refid="e3-manager-pojo_main.runtime.production.module.classpath"/>
+  </path>
+  
+  <path id="e3-manager-interface_main.module.classpath">
+    <path refid="${module.jdk.classpath.e3-manager-interface_main}"/>
+    <pathelement location="${e3-manager-interface_main.output.dir}"/>
+    <pathelement location="${e3-common_main.output.dir}"/>
+    <pathelement location="${e3-manager-pojo_main.output.dir}"/>
+  </path>
+  
+  <path id="e3-manager-interface_main.runtime.module.classpath">
+    <pathelement location="${e3-manager-interface_main.output.dir}"/>
+    <path refid="e3-common_main.runtime.module.classpath"/>
+    <path refid="e3-manager-pojo_main.runtime.module.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.e3-manager-interface_main">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.e3-manager-interface_main">
+    <patternset refid="excluded.from.module.e3-manager-interface_main"/>
+  </patternset>
+  
+  <path id="e3-manager-interface_main.module.sourcepath">
+    <dirset dir="${module.e3-manager-interface_main.basedir}/../../../e3-manager-interface/src/main">
+      <include name="java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.e3-manager-interface_main" depends="compile.module.e3-manager-interface_main.production,compile.module.e3-manager-interface_main.tests" description="Compile module e3-manager-interface_main"/>
+  
+  <target name="compile.module.e3-manager-interface_main.production" depends="register.custom.compilers,compile.module.e3-common_main,compile.module.e3-manager-pojo_main" description="Compile module e3-manager-interface_main; production classes">
+    <mkdir dir="${e3-manager-interface_main.output.dir}"/>
+    <javac2 destdir="${e3-manager-interface_main.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.e3-manager-interface_main}/javac">
+      <compilerarg line="${compiler.args.e3-manager-interface_main}"/>
+      <bootclasspath refid="e3-manager-interface_main.module.bootclasspath"/>
+      <classpath refid="e3-manager-interface_main.module.production.classpath"/>
+      <src refid="e3-manager-interface_main.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.e3-manager-interface_main"/>
+    </javac2>
+    
+    <copy todir="${e3-manager-interface_main.output.dir}">
+      <fileset dir="${module.e3-manager-interface_main.basedir}/../../../e3-manager-interface/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.e3-manager-interface_main.tests" depends="register.custom.compilers,compile.module.e3-manager-interface_main.production" description="compile module e3-manager-interface_main; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.e3-manager-interface_main" description="cleanup module">
+    <delete dir="${e3-manager-interface_main.output.dir}"/>
+    <delete dir="${e3-manager-interface_main.testoutput.dir}"/>
+  </target>
+</project>
