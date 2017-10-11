@@ -16,6 +16,12 @@
           <element id="module-output" name="e3-common_main" />
           <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-common/out/production/resources" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.1" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.1" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.oschina.zcx7878/fastdfs-client-java/1.27.0.0/9116f39fbcd49fc8a5cd775f19e0e9990533c0e0/fastdfs-client-java-1.27.0.0.jar" />
+        </element>
       </element>
     </root>
   </artifact>
