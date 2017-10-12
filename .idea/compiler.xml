@@ -16,6 +16,8 @@
       <module name="e3-manager-web_test" target="1.8" />
       <module name="e3-manager_main" target="1.8" />
       <module name="e3-manager_test" target="1.8" />
+      <module name="e3-portal-web_main" target="1.8" />
+      <module name="e3-portal-web_test" target="1.8" />
       <module name="mybatis_main" target="1.8" />
       <module name="mybatis_test" target="1.8" />
     </bytecodeTargetLevel>

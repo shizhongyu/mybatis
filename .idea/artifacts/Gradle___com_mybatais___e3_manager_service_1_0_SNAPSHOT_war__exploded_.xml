@@ -68,6 +68,7 @@
             <element id="module-output" name="e3-common_main" />
             <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-common/out/production/resources" />
           </element>
+          <element id="library" level="project" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" />
           <element id="library" level="project" name="Gradle: com.github.jsqlparser:jsqlparser:0.9.5" />
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
           <element id="library" level="project" name="Gradle: org.javassist:javassist:3.20.0-GA" />
@@ -77,7 +78,6 @@
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-log4j12:1.7.5" />
           <element id="library" level="project" name="Gradle: commons-cli:commons-cli:1.2" />
           <element id="library" level="project" name="Gradle: io.netty:netty:3.10.5.Final" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.oschina.zcx7878/fastdfs-client-java/1.27.0.0/9116f39fbcd49fc8a5cd775f19e0e9990533c0e0/fastdfs-client-java-1.27.0.0.jar" />
         </element>
       </element>
     </root>

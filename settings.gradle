@@ -6,4 +6,5 @@ include 'e3-manager-pojo'
 include 'e3-manager-interface'
 include 'e3-manager-web'
 include 'e3-manager-service'
+include 'e3-portal-web'
 

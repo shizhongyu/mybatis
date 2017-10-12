@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/../mybatis/e3-manager-pojo" />
             <option value="$PROJECT_DIR$/../mybatis/e3-manager-service" />
             <option value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-portal-web" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
