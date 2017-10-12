@@ -44,7 +44,6 @@ dependencies {
     compile group: 'com.101tec', name: 'zkclient', version: '0.10'
 
     compile(
-            project(':e3-manager-pojo'),
             project(':e3-manager-dao'),
             project(':e3-content-interface'),
     )

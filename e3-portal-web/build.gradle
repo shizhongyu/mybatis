@@ -29,4 +29,32 @@ dependencies {
     compile group: 'com.alibaba', name: 'dubbo', version: '2.5.5'
     compile group: 'javax.servlet', name: 'jstl', version: '1.2'
     compile group: 'org.apache.zookeeper', name: 'zookeeper', version: '3.4.10', ext: 'pom'
+    compile group: 'com.github.sgroschupf', name: 'zkclient', version: '0.1'
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+//    compile group: 'com.101tec', name: 'zkclient', version: '0.10'
+//    compile group: 'javax.servlet', name: 'servlet-api', version: '2.5'
+//    compile group: 'javax.servlet', name: 'jsp-api', version: '2.0'
+    compile group: 'org.mybatis', name: 'mybatis-spring', version: '1.3.1'
+    compile group: 'com.alibaba', name: 'druid', version: '1.1.3'
+    compile group: 'aopalliance', name: 'aopalliance', version: '1.0'
+    compile group: 'org.aspectj', name: 'aspectjrt', version: '1.8.10'
+    compile group: 'aspectj', name: 'aspectjrt', version: '1.5.3'
+    compile group: 'org.aspectj', name: 'aspectjweaver', version: '1.8.10'
+    compile group: 'io.netty', name: 'netty-all', version: '4.1.15.Final'
+//    compile group: 'com.foreveross', name: 'spring-boot-starter-dubbox', version: '2.3.8'
+//    compile group: 'com.gitee.reger', name: 'spring-boot-starter-dubbo', version: '1.0.2'
+    compile group: 'org.apache.curator', name: 'curator-framework', version: '4.0.0'
+    compile group: 'com.101tec', name: 'zkclient', version: '0.10'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.1'
+    compile group: 'commons-io', name: 'commons-io', version: '2.5'
+    compile group: 'commons-fileupload', name: 'commons-fileupload', version: '1.3.3'
+
+
+    compile(
+//            project(':e3-manager-dao'),
+//            project(':e3-manager-service'),
+//            project(':e3-manager-interface'),
+            project(':e3-content-interface'),
+//            project(':e3-manager-pojo'),
+    )
 }

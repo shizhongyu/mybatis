@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-common.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common.iml" group="e3-common" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_main.iml" group="e3-common" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_test.iml" group="e3-common" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-content.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-content.iml" group="e3-content" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-content-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-content-interface.iml" group="e3-content-interface" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content.iml" group="e3-content" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-interface.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-interface.iml" group="e3-content-interface" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-interface/e3-content-interface_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-interface/e3-content-interface_main.iml" group="e3-content-interface" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-interface/e3-content-interface_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-interface/e3-content-interface_test.iml" group="e3-content-interface" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-service/e3-content-service.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-service/e3-content-service.iml" group="e3-content-service" />
@@ -30,7 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web.iml" group="e3-manager-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_main.iml" group="e3-manager-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-web/e3-manager-web_test.iml" group="e3-manager-web" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-portal-web.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-portal-web.iml" group="e3-portal-web" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-portal-web.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-portal-web.iml" group="e3-portal-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-portal-web/e3-portal-web_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-portal-web/e3-portal-web_main.iml" group="e3-portal-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-portal-web/e3-portal-web_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-portal-web/e3-portal-web_test.iml" group="e3-portal-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/mybatis.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/mybatis.iml" />
