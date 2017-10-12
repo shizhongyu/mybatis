@@ -53,6 +53,7 @@ dependencies {
 //            project(':e3-manager-dao'),
 //            project(':e3-manager-service'),
             project(':e3-manager-interface'),
+            project(':e3-content-interface'),
 //            project(':e3-manager-pojo'),
     )
 

@@ -7,4 +7,7 @@ include 'e3-manager-interface'
 include 'e3-manager-web'
 include 'e3-manager-service'
 include 'e3-portal-web'
+include 'e3-content'
+include 'e3-content-interface'
+include 'e3-content-service'
 

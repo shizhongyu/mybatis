@@ -4,6 +4,12 @@
     <bytecodeTargetLevel>
       <module name="e3-common_main" target="1.8" />
       <module name="e3-common_test" target="1.8" />
+      <module name="e3-content-interface_main" target="1.8" />
+      <module name="e3-content-interface_test" target="1.8" />
+      <module name="e3-content-service_main" target="1.8" />
+      <module name="e3-content-service_test" target="1.8" />
+      <module name="e3-content_main" target="1.8" />
+      <module name="e3-content_test" target="1.8" />
       <module name="e3-manager-dao_main" target="1.8" />
       <module name="e3-manager-dao_test" target="1.8" />
       <module name="e3-manager-interface_main" target="1.8" />
