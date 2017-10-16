@@ -69,8 +69,10 @@
     <orderEntry type="module" module-name="e3-manager-pojo_main" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:20.0" level="project" />
     <orderEntry type="library" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: redis.clients:jedis:2.9.0" level="project" />
     <orderEntry type="library" name="Gradle: org.mybatis:mybatis:3.4.5" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:6.0.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-pool2:2.4.2" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.7.5" level="project" />
     <orderEntry type="library" name="Gradle: commons-cli:commons-cli:1.2" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty:3.10.5.Final" level="project" />
