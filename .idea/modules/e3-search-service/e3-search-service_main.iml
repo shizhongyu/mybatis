@@ -6,6 +6,7 @@
         <fileset id="fileset" name="ApplicationContext Service" removed="false">
           <file>file://$MODULE_DIR$/../../../e3-search-service/src/main/resources/spring/applicationContext-service.xml</file>
           <file>file://$MODULE_DIR$/../../../e3-search-service/src/main/resources/spring/applicationContext-dao.xml</file>
+          <file>file://$MODULE_DIR$/../../../e3-search-service/src/main/resources/spring/applicationContext-solr.xml</file>
         </fileset>
       </configuration>
     </facet>
