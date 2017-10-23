@@ -25,7 +25,9 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-orm:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-jdbc:5.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jms:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-tx:5.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-messaging:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.0.0.RELEASE" level="project" />
@@ -46,7 +48,8 @@
     <orderEntry type="library" name="Gradle: aspectj:aspectjrt:1.5.3" level="project" />
     <orderEntry type="library" name="Gradle: org.aspectj:aspectjweaver:1.8.10" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-all:4.1.15.Final" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-all:5.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-all:5.15.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.6" level="project" />
     <orderEntry type="module" module-name="e3-manager-interface_main" />
     <orderEntry type="module" module-name="e3-manager-pojo_main" />
     <orderEntry type="library" name="Gradle: com.github.jsqlparser:jsqlparser:0.9.5" level="project" />

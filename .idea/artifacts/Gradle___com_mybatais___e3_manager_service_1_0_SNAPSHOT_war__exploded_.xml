@@ -18,6 +18,7 @@
           <element id="library" level="project" name="Gradle: org.apache.zookeeper:zookeeper:pom:3.5.3-beta" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: junit:junit:4.12" />
           <element id="library" level="project" name="Gradle: com.github.pagehelper:pagehelper:4.2.0" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-oxm:5.0.0.RELEASE" />
@@ -27,7 +28,9 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-orm:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jms:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-tx:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-messaging:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.0.RELEASE" />
@@ -60,7 +63,7 @@
           <element id="library" level="project" name="Gradle: aspectj:aspectjrt:1.5.3" />
           <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.10" />
           <element id="library" level="project" name="Gradle: io.netty:netty-all:4.1.15.Final" />
-          <element id="library" level="project" name="Gradle: org.apache.activemq:activemq-all:5.11.2" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.6" />
           <element id="archive" name="com.mybatais-e3-manager-interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="e3-manager-interface_main" />
             <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-interface/out/production/resources" />
@@ -72,6 +75,7 @@
           <element id="library" level="project" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" />
           <element id="library" level="project" name="Gradle: redis.clients:jedis:2.8.0" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.3" />
+          <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.3" />
           <element id="library" level="project" name="Gradle: com.github.jsqlparser:jsqlparser:0.9.5" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.0.RELEASE" />
           <element id="library" level="project" name="Gradle: org.javassist:javassist:3.20.0-GA" />
@@ -81,8 +85,7 @@
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-log4j12:1.7.5" />
           <element id="library" level="project" name="Gradle: commons-cli:commons-cli:1.2" />
           <element id="library" level="project" name="Gradle: io.netty:netty:3.10.5.Final" />
-          <element id="library" level="project" name="Gradle: junit:junit:4.12" />
-          <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.3" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq/activemq-all/5.15.0/5b79e6f4a7b4189b608f853661f7f83301767fb0/activemq-all-5.15.0.jar" />
         </element>
       </element>
     </root>
