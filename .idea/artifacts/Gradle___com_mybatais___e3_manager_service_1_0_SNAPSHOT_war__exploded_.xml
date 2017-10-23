@@ -63,6 +63,7 @@
           <element id="library" level="project" name="Gradle: aspectj:aspectjrt:1.5.3" />
           <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.10" />
           <element id="library" level="project" name="Gradle: io.netty:netty-all:4.1.15.Final" />
+          <element id="library" level="project" name="Gradle: org.apache.activemq:activemq-all:5.15.0" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.6" />
           <element id="archive" name="com.mybatais-e3-manager-interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="e3-manager-interface_main" />
@@ -85,7 +86,6 @@
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-log4j12:1.7.5" />
           <element id="library" level="project" name="Gradle: commons-cli:commons-cli:1.2" />
           <element id="library" level="project" name="Gradle: io.netty:netty:3.10.5.Final" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.activemq/activemq-all/5.15.0/5b79e6f4a7b4189b608f853661f7f83301767fb0/activemq-all-5.15.0.jar" />
         </element>
       </element>
     </root>

@@ -57,7 +57,8 @@ dependencies {
     compile group: 'io.projectreactor', name: 'reactor-core', version: '3.1.0.RELEASE'
     compile group: 'commons-beanutils', name: 'commons-beanutils', version: '1.9.3'
     compile group: 'org.apache.solr', name: 'solr-solrj', version: '4.10.3'
-
+    compile group: 'org.apache.activemq', name: 'activemq-all', version: '5.15.0'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
     compile(
             project(':e3-common'),
             project(':e3-manager-dao'),
