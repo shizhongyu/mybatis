@@ -10,9 +10,23 @@ repositories {
     mavenCentral()
 }
 
-//from('src/main/java') {
-//    include 'cn/e3mall/search/mapper/*.xml'
-//}
+jar {
+    //指定包名,没错  这样也行 多查API
+    baseName = 'cn.e3mall.search.mapper'
+
+    //指定包含的文件
+    //include xxx.x
+
+//    from('src/main/java') {
+//        include 'cn/e3mall/mapper/*.xml'
+//    }
+
+    from('src/main/java') {
+        include 'cn/e3mall/search/mapper/*.xml'
+    }
+}
+
+
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
     compile group: 'junit', name: 'junit', version: '4.12'
@@ -60,9 +74,6 @@ dependencies {
     compile group: 'org.apache.activemq', name: 'activemq-all', version: '5.15.0'
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
     compile(
-            project(':e3-common'),
-            project(':e3-manager-dao'),
-            project(':e3-content-interface'),
             project(':e3-search-interface'),
             project(':e3-common'),
             project(':e3-manager-dao'),

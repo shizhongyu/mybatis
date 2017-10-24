@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Gradle : com.mybatais : e3-manager-service-1.0-SNAPSHOT.war (exploded)" />
+      <artifact name="Gradle : com.mybatais : e3-search-service-1.0-SNAPSHOT.war (exploded)" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-activemq.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_manager_service_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/ItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/cn.e3mall.search.mapper/ItemMapper.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_search_service_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_search_service_1_0_SNAPSHOT_war__exploded_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-search-service/e3-search-service_main.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-search-service/e3-search-service_main.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-search-service/e3-search-service_test.iml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-search-service/e3-search-service_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml" afterPath="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../mybatis/out/" />
     <ignored path="$PROJECT_DIR$/../mybatis/.gradle/" />
@@ -121,84 +119,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <marker date="1480058021949" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
-                <marker date="1480058021949" expanded="true" signature="570:772" ph="SELECT a.id,... tb_item" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="23" column="91" lean-forward="true" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyMessageListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext-activemq.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-activemq.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="12" column="72" lean-forward="true" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext-solr.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-dao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="100">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -207,18 +132,93 @@
       <file leaf-file-name="ItemAddMessageListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java">
+      <file leaf-file-name="MapperProxy.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.5/e762c2c3d81be2ecaf5655613853d645c7b8c9b7/mybatis-3.4.5-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="98">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/java/cn/e3mall/search/controller/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/dao/SearchDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemMapper.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <marker date="1508818424006" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
+                <marker date="1508818424006" expanded="true" signature="570:774" ph="SELECT a.id,... tb_item" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchItemServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/service/impl/SearchItemServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/service/impl/SearchServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="19" column="91" lean-forward="true" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -2483,7 +2483,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../mybatis" value="24123517951010" />
+        <entry key="$PROJECT_DIR$/../mybatis" value="24123588166958" />
         <entry key="$PROJECT_DIR$/../mybatis/build.gradle" value="3048562291" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-common/build.gradle" value="3228675911" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-content-interface/build.gradle" value="4034298822" />
@@ -2497,7 +2497,7 @@
         <entry key="$PROJECT_DIR$/../mybatis/e3-manager/build.gradle" value="3497436308" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-portal-web/build.gradle" value="1834223484" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-search-interface/build.gradle" value="661333783" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" value="2693394395" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" value="3796846346" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-search-web/build.gradle" value="3402507089" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-search/build.gradle" value="3497436308" />
         <entry key="$PROJECT_DIR$/../mybatis/settings.gradle" value="1163163358" />
@@ -2775,8 +2775,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../mybatis/e3-content-service/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-content-interface/build.gradle" />
         <option value="$PROJECT_DIR$/../mybatis/e3-content-service/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-content-service/src/main/webapp/index.jsp" />
@@ -2814,9 +2812,7 @@
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/conf/resource.properties" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-dao.xml" />
@@ -2824,8 +2820,12 @@
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-redis.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" />
         <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-activemq.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemMapper.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml" />
       </list>
     </option>
   </component>
@@ -2849,8 +2849,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="354" />
-    <option name="y" value="55" />
+    <option name="x" value="641" />
+    <option name="y" value="129" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -2886,7 +2886,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2926,7 +2927,8 @@
               <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
@@ -2934,16 +2936,36 @@
               <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2973,11 +2995,11 @@
       <recent name="cn.e3mall.service.impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\mybatis\e3-search-service\src\main\resources\spring" />
-      <recent name="H:\mybatis\e3-search-service\src\main\java\cn\e3mall\search" />
       <recent name="H:\mybatis\e3-search-service\src\main\java\cn\e3mall\search\mapper" />
-      <recent name="H:\mybatis\e3-manager-service\src\main\java\cn\e3mall\service\impl" />
-      <recent name="H:\mybatis\e3-manager-service\src\main\resources\spring" />
+      <recent name="H:\mybatis\e3-search-service\src\main\java\cn\e3mall\search\message" />
+      <recent name="H:\mybatis\e3-search-service\src\main\resources" />
+      <recent name="H:\mybatis\e3-search-service\src\main\resources\cn.e3mall.search.mapper" />
+      <recent name="H:\mybatis\e3-search-service\src\main\resources\spring" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -3375,7 +3397,6 @@
       </method>
     </configuration>
     <configuration name="search-service" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8085/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Gradle : com.mybatais : e3-search-service-1.0-SNAPSHOT.war (exploded)">
@@ -3444,7 +3465,9 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method>
-        <option name="BuildArtifacts" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.mybatais : e3-search-service-1.0-SNAPSHOT.war (exploded)" />
+        </option>
       </method>
     </configuration>
     <configuration name="search-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
@@ -3610,7 +3633,9 @@
       <workItem from="1508309522166" duration="9599000" />
       <workItem from="1508380597025" duration="8655000" />
       <workItem from="1508466465489" duration="12213000" />
-      <workItem from="1508725435985" duration="13049000" />
+      <workItem from="1508725435985" duration="15074000" />
+      <workItem from="1508763588505" duration="10694000" />
+      <workItem from="1508812425720" duration="6007000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis.">
       <created>1504965236107</created>
@@ -3738,7 +3763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508743947658</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="day09 e3mall-search-service success.">
+      <created>1508744934556</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1508744934556</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -3774,7 +3806,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301305000" />
+    <option name="totallyTimeSpent" value="320031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -3800,7 +3832,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.4935275" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51618123" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4433657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6569579" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3808,12 +3840,11 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51132685" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17152104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7880259" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27760968" sideWeight="0.47249192" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24810892" sideWeight="0.47249192" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.290469" sideWeight="0.5210356" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1633888" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.290469" sideWeight="0.5275081" order="2" side_tool="true" content_ui="tabs" />
@@ -3823,6 +3854,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -3875,7 +3907,9 @@
     <MESSAGE value="e3mall day07 success." />
     <MESSAGE value="e3mall day08 success." />
     <MESSAGE value="day09 e3mall-service success." />
-    <option name="LAST_COMMIT_MESSAGE" value="day09 e3mall-service success." />
+    <MESSAGE value="day09 e3mall-search-service success." />
+    <MESSAGE value="day09 activeMq spring success.&#10;ItemMapper.getItemById bugger." />
+    <option name="LAST_COMMIT_MESSAGE" value="day09 activeMq spring success.&#10;ItemMapper.getItemById bugger." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -4025,12 +4059,6 @@
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/java/cn/e3mall/search/controller/SearchController.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/SearchItemController.java</url>
           <line>26</line>
           <properties />
@@ -4054,6 +4082,66 @@
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/dao/SearchDao.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java</url>
+          <line>140</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java</url>
+          <line>135</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/../mybatis/e3-common/src/main/java/cn/e3mall/common/jedis/JedisClientCluster.java</url>
           <line>8</line>
@@ -4061,7 +4149,7 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="110" />
+      <option name="time" value="126" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -4070,130 +4158,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/webapp/WEB-INF/jsp/index-item.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-portal-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-content-service/src/main/java/cn/e3mall/content/service/impl/ContentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1000">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-content-service/src/main/java/cn/e3mall/content/service/impl/ContentCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/java/cn/e3mall/search/controller/SearchController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-interface/src/main/java/cn/e3mall/search/service/SearchItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.solr/solr-solrj/4.10.3/e8caba7f71649c9369afe87b6054c9d0367a6c26/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/SolrServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-content-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/src/main/java/cn/e3mall/controller/SearchItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.solr/solr-solrj/4.10.3/e8caba7f71649c9369afe87b6054c9d0367a6c26/solr-solrj-4.10.3-sources.jar!/org/apache/solr/client/solrj/impl/CloudSolrServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/java/cn/e3mall/search/exception/GlobalExceptionResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="106" column="36" lean-forward="true" selection-start-line="106" selection-start-column="36" selection-end-line="106" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/conf/applicationContext-redis.xml" />
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-content-service/src/main/resources/spring/applicationContext-redis.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="84" lean-forward="false" selection-start-line="2" selection-start-column="84" selection-end-line="2" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4215,23 +4183,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/service/impl/SearchServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/dao/SearchDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4243,19 +4194,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemCatServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/HelloServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4279,7 +4221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="85" column="22" lean-forward="true" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4287,7 +4228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="154" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4295,7 +4235,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4303,25 +4242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/service/impl/SearchItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4329,7 +4249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4337,7 +4256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4345,7 +4263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4377,34 +4294,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/test/ActiveMqTestTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-activemq.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-service.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="350">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build/libs/exploded/e3-search-service-1.0-SNAPSHOT.war/WEB-INF/classes/spring/applicationContext-solr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/out/production/resources/spring/applicationContext-activemq.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-444">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/out/production/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/out/production/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/out/production/resources/spring/applicationContext-solr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/out/production/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/cn.e3mall.search.mapper/ItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <marker date="1480058021949" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
             <marker date="1480058021949" expanded="true" signature="570:772" ph="SELECT a.id,... tb_item" />
@@ -4412,59 +4378,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemCatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="23" column="91" lean-forward="true" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-activemq.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="12" column="72" lean-forward="true" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+        <state relative-caret-position="240">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="220">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/mybatismapper/ItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479887201522" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="59">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="111" column="48" lean-forward="false" selection-start-line="111" selection-start-column="48" selection-end-line="111" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-dao/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="38" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="78" column="39" lean-forward="false" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/ItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <marker date="1480058021949" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
+            <marker date="1480058021949" expanded="true" signature="570:772" ph="SELECT a.id,... tb_item" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="19" column="91" lean-forward="true" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/service/impl/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/service/impl/SearchItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/dao/SearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/java/cn/e3mall/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="29" column="49" lean-forward="true" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.5/e762c2c3d81be2ecaf5655613853d645c7b8c9b7/mybatis-3.4.5-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <marker date="1508818424006" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
+            <marker date="1508818424006" expanded="true" signature="570:774" ph="SELECT a.id,... tb_item" />
+          </folding>
         </state>
       </provider>
     </entry>

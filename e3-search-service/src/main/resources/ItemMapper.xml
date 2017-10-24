@@ -28,6 +28,6 @@
 		LEFT JOIN tb_item_cat b ON a.cid = b.id
 		WHERE
 			a.`status` = 1
-		AND a.id = #{itemid}
+		AND a.id=#{itemid}
 	</select>
 </mapper>
