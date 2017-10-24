@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-service/e3-content-service_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content-service/e3-content-service_test.iml" group="e3-content-service" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content/e3-content_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content/e3-content_main.iml" group="e3-content" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-content/e3-content_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-content/e3-content_test.iml" group="e3-content" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-item-web.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-item-web.iml" group="e3-item-web" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-item-web/e3-item-web_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-item-web/e3-item-web_main.iml" group="e3-item-web" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-item-web/e3-item-web_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-item-web/e3-item-web_test.iml" group="e3-item-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager/e3-manager.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager/e3-manager.iml" group="e3-manager" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao.iml" group="e3-manager-dao" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-manager-dao/e3-manager-dao_main.iml" group="e3-manager-dao" />

@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/../mybatis/e3-content" />
             <option value="$PROJECT_DIR$/../mybatis/e3-content-interface" />
             <option value="$PROJECT_DIR$/../mybatis/e3-content-service" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-item-web" />
             <option value="$PROJECT_DIR$/../mybatis/e3-manager" />
             <option value="$PROJECT_DIR$/../mybatis/e3-manager-dao" />
             <option value="$PROJECT_DIR$/../mybatis/e3-manager-interface" />
