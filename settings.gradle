@@ -15,4 +15,5 @@ include 'e3-search-interface'
 include 'e3-search-service'
 include 'e3-search-web'
 include 'e3-search-web'
+include 'e3-item-web'
 
