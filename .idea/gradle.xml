@@ -26,6 +26,9 @@
             <option value="$PROJECT_DIR$/../mybatis/e3-search-interface" />
             <option value="$PROJECT_DIR$/../mybatis/e3-search-service" />
             <option value="$PROJECT_DIR$/../mybatis/e3-search-web" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-sso-interface" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-sso-service" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-sso-web" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
