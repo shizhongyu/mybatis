@@ -29,6 +29,7 @@
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.1" level="project" />
     <orderEntry type="library" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" level="project" />
     <orderEntry type="library" name="Gradle: redis.clients:jedis:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.2" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.1" level="project" />

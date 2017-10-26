@@ -34,6 +34,12 @@
       <module name="e3-search-web_test" target="1.8" />
       <module name="e3-search_main" target="1.8" />
       <module name="e3-search_test" target="1.8" />
+      <module name="e3-sso-interface_main" target="1.8" />
+      <module name="e3-sso-interface_test" target="1.8" />
+      <module name="e3-sso-service_main" target="1.8" />
+      <module name="e3-sso-service_test" target="1.8" />
+      <module name="e3-sso-web_main" target="1.8" />
+      <module name="e3-sso-web_test" target="1.8" />
       <module name="mybatis_main" target="1.8" />
       <module name="mybatis_test" target="1.8" />
     </bytecodeTargetLevel>

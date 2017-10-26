@@ -40,6 +40,7 @@
           </element>
           <element id="library" level="project" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" />
           <element id="library" level="project" name="Gradle: redis.clients:jedis:2.8.0" />
+          <element id="library" level="project" name="Gradle: javax.servlet:servlet-api:2.5" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.3" />
         </element>
       </element>

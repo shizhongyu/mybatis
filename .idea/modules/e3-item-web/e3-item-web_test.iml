@@ -61,6 +61,7 @@
     <orderEntry type="library" name="Gradle: com.google.guava:guava:20.0" level="project" />
     <orderEntry type="library" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" level="project" />
     <orderEntry type="library" name="Gradle: redis.clients:jedis:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-pool2:2.3" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.7.5" level="project" />
