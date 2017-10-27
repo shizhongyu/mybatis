@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-cart-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-cart-interface.iml" group="e3-cart-interface" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-interface/e3-cart-interface_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-interface/e3-cart-interface_main.iml" group="e3-cart-interface" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-interface/e3-cart-interface_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-interface/e3-cart-interface_test.iml" group="e3-cart-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-cart-service.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-cart-service.iml" group="e3-cart-service" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-service/e3-cart-service_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-service/e3-cart-service_main.iml" group="e3-cart-service" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-service/e3-cart-service_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-service/e3-cart-service_test.iml" group="e3-cart-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/e3-cart-web.iml" filepath="$PROJECT_DIR$/.idea/modules/e3-cart-web.iml" group="e3-cart-web" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-web/e3-cart-web_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-web/e3-cart-web_main.iml" group="e3-cart-web" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-web/e3-cart-web_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-cart-web/e3-cart-web_test.iml" group="e3-cart-web" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-common.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common.iml" group="e3-common" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_main.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_main.iml" group="e3-common" />
       <module fileurl="file://$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_test.iml" filepath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-common/e3-common_test.iml" group="e3-common" />

@@ -2,6 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="e3-cart-interface_main" target="1.8" />
+      <module name="e3-cart-interface_test" target="1.8" />
+      <module name="e3-cart-service_main" target="1.8" />
+      <module name="e3-cart-service_test" target="1.8" />
+      <module name="e3-cart-web_main" target="1.8" />
+      <module name="e3-cart-web_test" target="1.8" />
       <module name="e3-common_main" target="1.8" />
       <module name="e3-common_test" target="1.8" />
       <module name="e3-content-interface_main" target="1.8" />

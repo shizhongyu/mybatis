@@ -19,4 +19,7 @@ include 'e3-item-web'
 include 'e3-sso-interface'
 include 'e3-sso-service'
 include 'e3-sso-web'
+include 'e3-cart-service'
+include 'e3-cart-web'
+include 'e3-cart-interface'
 

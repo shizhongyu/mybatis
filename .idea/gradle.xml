@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../mybatis" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-cart-interface" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-cart-service" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-cart-web" />
             <option value="$PROJECT_DIR$/../mybatis/e3-common" />
             <option value="$PROJECT_DIR$/../mybatis/e3-content" />
             <option value="$PROJECT_DIR$/../mybatis/e3-content-interface" />

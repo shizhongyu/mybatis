@@ -65,9 +65,9 @@
     <orderEntry type="library" name="Gradle: io.netty:netty-all:4.1.15.Final" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-all:5.15.0" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.6" level="project" />
+    <orderEntry type="module" module-name="e3-sso-interface_main" />
     <orderEntry type="module" module-name="e3-common_main" />
     <orderEntry type="library" name="Gradle: redis.clients:jedis:2.8.0" level="project" />
-    <orderEntry type="module" module-name="e3-sso-interface_main" />
     <orderEntry type="library" name="Gradle: com.github.jsqlparser:jsqlparser:0.9.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:5.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.javassist:javassist:3.20.0-GA" level="project" />

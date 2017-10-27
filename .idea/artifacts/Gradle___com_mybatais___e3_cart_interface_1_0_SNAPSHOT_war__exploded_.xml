@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.mybatais : e3-cart-interface-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/../mybatis/e3-cart-interface/build/libs/exploded/e3-cart-interface-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/../mybatis">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../mybatis/e3-cart-interface/build/libs/exploded/e3-cart-interface-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="e3-cart-interface_main/web/Web Gradle : e3-cart-interface-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="e3-cart-interface_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-cart-interface/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="com.mybatais-e3-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="e3-manager-pojo_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/out/production/resources" />
+          </element>
+          <element id="archive" name="com.mybatais-e3-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="e3-common_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-common/out/production/resources" />
+          </element>
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.1" />
+          <element id="library" level="project" name="Gradle: net.oschina.zcx7878:fastdfs-client-java:1.27.0.0" />
+          <element id="library" level="project" name="Gradle: redis.clients:jedis:2.8.0" />
+          <element id="library" level="project" name="Gradle: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.1" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
