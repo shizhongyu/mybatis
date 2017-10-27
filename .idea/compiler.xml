@@ -30,6 +30,10 @@
       <module name="e3-manager-web_test" target="1.8" />
       <module name="e3-manager_main" target="1.8" />
       <module name="e3-manager_test" target="1.8" />
+      <module name="e3-order-interface_main" target="1.8" />
+      <module name="e3-order-interface_test" target="1.8" />
+      <module name="e3-order-service_main" target="1.8" />
+      <module name="e3-order-service_test" target="1.8" />
       <module name="e3-portal-web_main" target="1.8" />
       <module name="e3-portal-web_test" target="1.8" />
       <module name="e3-search-interface_main" target="1.8" />

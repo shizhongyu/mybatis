@@ -22,4 +22,7 @@ include 'e3-sso-web'
 include 'e3-cart-service'
 include 'e3-cart-web'
 include 'e3-cart-interface'
+include 'e3-order-service'
+include 'e3-order-interface'
+include 'e3-order-web'
 

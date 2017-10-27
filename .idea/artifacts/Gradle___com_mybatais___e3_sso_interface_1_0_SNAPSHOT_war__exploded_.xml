@@ -17,10 +17,6 @@
           <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-sso-interface/out/production/resources" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="com.mybatais-e3-manager-pojo-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="e3-manager-pojo_main" />
-            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/out/production/resources" />
-          </element>
           <element id="archive" name="com.mybatais-e3-common-1.0-SNAPSHOT.jar">
             <element id="module-output" name="e3-common_main" />
             <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-common/out/production/resources" />
@@ -32,6 +28,10 @@
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.1" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.3" />
+          <element id="archive" name="com.mybatais-e3-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="e3-manager-pojo_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/../mybatis/e3-manager-pojo/out/production/resources" />
+          </element>
         </element>
       </element>
     </root>
