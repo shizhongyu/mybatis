@@ -2,19 +2,151 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Gradle : com.mybatais : e3-item-web-1.0-SNAPSHOT.war (exploded)" />
+      <artifact name="Gradle : com.mybatais : e3-search-web-1.0-SNAPSHOT.war (exploded)" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="e3mall day12 success.&#10;e3-item-web user info no show.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-interface/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/index.jsp" />
+    <list default="true" id="07efef91-74dc-4b4c-9a6e-ce5378285afd" name="Default" comment="e3mall day13 success.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/99bill.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/alipay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/bjnc_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/bottom_sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/cart_icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/cart_icon2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/cartbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/foot/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/foot_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/getfavbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/hftx_k_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r1_c1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r1_c3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r1_c5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r1_c7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r3_c1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r3_c3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r3_c5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r3_c7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r5_c1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r5_c3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r5_c5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r5_c7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r7_c3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r7_c5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r9_c1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconyin_r9_c5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconzf_r1_c3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconzf_r1_c5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/iconzf_r3_c1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/indexImg20130307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/kxicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/logo66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/logo_word.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/ordericons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/pay/pay_line.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/productinfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/saomazhifu.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/sd_close.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/sf-stock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/sfpay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/step_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/step_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/thumb_1800220027_0_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/images/yikatong.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_order_interface_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_order_interface_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_order_service_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_order_service_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_order_web_1_0_SNAPSHOT_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/artifacts/Gradle___com_mybatais___e3_order_web_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-interface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-interface/e3-order-interface_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-interface/e3-order-interface_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-service.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-service/e3-order-service_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-service/e3-order-service_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-web/e3-order-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-web/e3-order-web_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules/e3-order-web/e3-order-web_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-interface/src/main/java/cn/e3mall/order/pojo/OrderInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-interface/src/main/java/cn/e3mall/order/service/OrderService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/conf/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/conf/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatis/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/ItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbContentCategoryMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbContentMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbItemCatMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbItemDescMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbItemParamItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbItemParamMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbOrderItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbOrderMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbOrderShippingMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbUserMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-redis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-trans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/java/cn/e3mall/order/controller/OrderController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/java/cn/e3mall/order/interceptor/LoginInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/resources/conf/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/resources/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/jsp/order-cart.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/jsp/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/css/head.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/css/jquery.alerts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/css/newpay.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/css/order.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/e3mall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/jquery-1.5.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/jquery.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/jquery.region.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/js/shadow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/settings.gradle" afterPath="$PROJECT_DIR$/../mybatis/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-cart-interface/src/main/java/cn/e3mall/cart/service/CartService.java" afterPath="$PROJECT_DIR$/../mybatis/e3-cart-interface/src/main/java/cn/e3mall/cart/service/CartService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/java/cn/e3mall/cart/service/impl/CartServiceImpl.java" afterPath="$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/java/cn/e3mall/cart/service/impl/CartServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp" afterPath="$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle" afterPath="$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/../mybatis/out/" />
     <ignored path="$PROJECT_DIR$/../mybatis/.gradle/" />
@@ -91,6 +223,9 @@
     <ignored path="$PROJECT_DIR$/../mybatis/e3-order-service/.gradle/" />
     <ignored path="$PROJECT_DIR$/../mybatis/e3-order-service/build/" />
     <ignored path="$PROJECT_DIR$/../mybatis/e3-order-service/out/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-order-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-order-web/build/" />
+    <ignored path="$PROJECT_DIR$/../mybatis/e3-order-web/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,12 +263,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mybatis" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -145,101 +275,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-item-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainmenu.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-item-web/src/main/webapp/WEB-INF/jsp/commons/mainmenu.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-item-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="40">
+              <caret line="39" column="65" lean-forward="false" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-redis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-redis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/java/cn/e3mall/order/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="540">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="80" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp">
+      <file leaf-file-name="applicationContext-trans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-trans.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../mybatis/e3-item-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="396">
+              <caret line="33" column="65" lean-forward="false" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -260,11 +392,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mybatis-paginator</find>
-      <find>jsqlparser</find>
-      <find>hsqldb</find>
-      <find>pageHelp</find>
-      <find>\\</find>
       <find>fasterxml</find>
       <find>fastdfs</find>
       <find>netty</find>
@@ -282,14 +409,18 @@
       <find>8087</find>
       <find>8086</find>
       <find>ActiveMQ</find>
-      <find>redis</find>
       <find>compile group: 'redis.clients', name: 'jedis', version: '2.8.0'</find>
       <find>javax.servlet</find>
       <find>lang3</find>
       <find>8090</find>
-      <find>8088</find>
       <find>8089</find>
       <find>e3mall.js</find>
+      <find>redis</find>
+      <find>8088</find>
+      <find>8091</find>
+      <find>registry protocol=&quot;zookeepe</find>
+      <find>dubbo:protocol</find>
+      <find>8092</find>
     </findStrings>
     <replaceStrings>
       <replace>4.3.10</replace>
@@ -393,6 +524,10 @@
               <ExternalProjectPojo>
                 <option name="name" value=":e3-order-service" />
                 <option name="path" value="$PROJECT_DIR$/../mybatis/e3-order-service" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":e3-order-web" />
+                <option name="path" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":e3-portal-web" />
@@ -2675,6 +2810,142 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../mybatis/e3-order-web">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':e3-order-web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':e3-order-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':e3-order-web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':e3-order-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':e3-order-web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':e3-order-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':e3-order-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':e3-order-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':e3-order-web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../mybatis/e3-portal-web">
           <value>
             <list>
@@ -3768,7 +4039,7 @@
     <option name="modificationStamps">
       <map>
         <entry />
-        <entry key="$PROJECT_DIR$/../mybatis" value="37707105851208" />
+        <entry key="$PROJECT_DIR$/../mybatis" value="39216451120589" />
         <entry key="$PROJECT_DIR$/../mybatis/build.gradle" value="3048562291" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-cart-interface/build.gradle" value="3642652781" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-cart-service/build.gradle" value="1255258080" />
@@ -3784,8 +4055,9 @@
         <entry key="$PROJECT_DIR$/../mybatis/e3-manager-service/build.gradle" value="97517201" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-manager-web/build.gradle" value="3781206826" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-manager/build.gradle" value="3497436308" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle" value="3497436308" />
-        <entry key="$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle" value="3497436308" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle" value="168927445" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle" value="2483608873" />
+        <entry key="$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle" value="1229392508" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-portal-web/build.gradle" value="1834223484" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-search-interface/build.gradle" value="661333783" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" value="4060080579" />
@@ -3794,7 +4066,7 @@
         <entry key="$PROJECT_DIR$/../mybatis/e3-sso-interface/build.gradle" value="3474030732" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-sso-service/build.gradle" value="2670871094" />
         <entry key="$PROJECT_DIR$/../mybatis/e3-sso-web/build.gradle" value="2224313865" />
-        <entry key="$PROJECT_DIR$/../mybatis/settings.gradle" value="3521118927" />
+        <entry key="$PROJECT_DIR$/../mybatis/settings.gradle" value="3457830920" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3920,6 +4192,13 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$/../mybatis/e3-order-service" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../mybatis/e3-order-web">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../mybatis/e3-order-web" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -4132,16 +4411,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/MyMessageListener.java" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-manager-interface/src/main/java/cn/e3mall/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-dao.xml" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-activemq.xml" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-activemq.xml" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/resources/spring/applicationContext-solr.xml" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemMapper.java" />
-        <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/message/ItemAddMessageListener.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.java" />
         <option value="$PROJECT_DIR$/../mybatis/e3-search-service/src/main/java/cn/e3mall/search/mapper/ItemMapper.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-portal-web/build.gradle" />
@@ -4183,6 +4452,16 @@
         <option value="$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/spring/applicationContext-dao.xml" />
         <option value="$PROJECT_DIR$/../mybatis/e3-search-web/src/main/webapp/js/e3mall.js" />
         <option value="$PROJECT_DIR$/../mybatis/e3-item-web/src/main/webapp/js/e3mall.js" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-redis.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/resources/conf/resource.properties" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-web/src/main/java/cn/e3mall/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle" />
+        <option value="$PROJECT_DIR$/../mybatis/e3-order-service/src/main/java/cn/e3mall/order/service/impl/OrderServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -4243,9 +4522,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -4253,11 +4533,128 @@
               <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-cart-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-manager-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-order-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="e3-search-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4279,11 +4676,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\mybatis\e3-cart-service\src\main\resources" />
-      <recent name="H:\mybatis\e3-cart-web\src\main" />
-      <recent name="H:\mybatis\e3-cart-service\src\main" />
-      <recent name="H:\mybatis\e3-cart-interface\src\main" />
-      <recent name="H:\mybatis\e3-common\src\main\java\cn\e3mall\common\utils" />
+      <recent name="H:\mybatis\e3-order-service\src\main\webapp" />
+      <recent name="H:\mybatis\e3-cart-interface\src\main\java\cn\e3mall\cart\service" />
+      <recent name="H:\mybatis\e3-cart-service\src\main\java\cn\e3mall\cart\service\impl" />
+      <recent name="H:\mybatis\e3-order-service\src\main" />
+      <recent name="H:\mybatis\e3-order-web\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.e3mall.service.impl" />
@@ -4306,7 +4703,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.item-web">
+  <component name="RunManager" selected="Tomcat Server.search-web">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -4837,6 +5234,156 @@
         </option>
       </method>
     </configuration>
+    <configuration name="order-service" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8096/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.mybatais : e3-order-service-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatis_14" />
+        <option name="HTTP_PORT" value="8096" />
+        <option name="JNDI_PORT" value="1086" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="42821" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.mybatais : e3-order-service-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="order-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8095/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.mybatais : e3-order-web-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatis_15" />
+        <option name="HTTP_PORT" value="8095" />
+        <option name="JNDI_PORT" value="1084" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="43141" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.mybatais : e3-order-web-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
     <configuration name="portal-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.81" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8084/" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
@@ -5210,18 +5757,20 @@
         </option>
       </method>
     </configuration>
-    <list size="11">
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.manager-web" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.content-service" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.manager-service" />
       <item index="3" class="java.lang.String" itemvalue="Tomcat Server.portal-web" />
       <item index="4" class="java.lang.String" itemvalue="Tomcat Server.cart-service" />
       <item index="5" class="java.lang.String" itemvalue="Tomcat Server.cart-web" />
-      <item index="6" class="java.lang.String" itemvalue="Tomcat Server.search-web" />
-      <item index="7" class="java.lang.String" itemvalue="Tomcat Server.search-service" />
-      <item index="8" class="java.lang.String" itemvalue="Tomcat Server.item-web" />
-      <item index="9" class="java.lang.String" itemvalue="Tomcat Server.sso-service" />
-      <item index="10" class="java.lang.String" itemvalue="Tomcat Server.sso-web" />
+      <item index="6" class="java.lang.String" itemvalue="Tomcat Server.order-service" />
+      <item index="7" class="java.lang.String" itemvalue="Tomcat Server.order-web" />
+      <item index="8" class="java.lang.String" itemvalue="Tomcat Server.search-web" />
+      <item index="9" class="java.lang.String" itemvalue="Tomcat Server.search-service" />
+      <item index="10" class="java.lang.String" itemvalue="Tomcat Server.item-web" />
+      <item index="11" class="java.lang.String" itemvalue="Tomcat Server.sso-service" />
+      <item index="12" class="java.lang.String" itemvalue="Tomcat Server.sso-web" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -5311,7 +5860,9 @@
       <workItem from="1508924537616" duration="440000" />
       <workItem from="1508931171381" duration="5607000" />
       <workItem from="1508983404687" duration="15899000" />
-      <workItem from="1509070745084" duration="8442000" />
+      <workItem from="1509070745084" duration="15483000" />
+      <workItem from="1509097345440" duration="1114000" />
+      <workItem from="1509336221764" duration="8635000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis.">
       <created>1504965236107</created>
@@ -5495,7 +6046,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509078856553</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="e3 order add.">
+      <created>1509087102261</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1509087102261</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -5531,9 +6089,9 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371990000" />
+    <option name="totallyTimeSpent" value="388780000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -5563,14 +6121,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.94012946" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.697411" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.94012946" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6456311" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.47249192" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2344932" sideWeight="0.47249192" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.290469" sideWeight="0.5210356" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11875945" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22617246" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.290469" sideWeight="0.5275081" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -5614,8 +6172,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="e3mall 01 success." />
-    <MESSAGE value="dubbo zookeeper success." />
     <MESSAGE value="dubbo success." />
     <MESSAGE value="e3mall 02 success." />
     <MESSAGE value="e3mall 02 success.&#10;mybatis xml mapper bug fix." />
@@ -5639,7 +6195,9 @@
     <MESSAGE value="e3mall day10 success." />
     <MESSAGE value="e3mall day11 success." />
     <MESSAGE value="e3mall day12 success.&#10;e3-item-web user info no show." />
-    <option name="LAST_COMMIT_MESSAGE" value="e3mall day12 success.&#10;e3-item-web user info no show." />
+    <MESSAGE value="e3 order add." />
+    <MESSAGE value="e3mall day13 success." />
+    <option name="LAST_COMMIT_MESSAGE" value="e3mall day13 success." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -5890,6 +6448,12 @@
           <properties />
           <option name="timeStamp" value="138" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mybatis/e3-order-web/src/main/java/cn/e3mall/order/controller/OrderController.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/../mybatis/e3-common/src/main/java/cn/e3mall/common/jedis/JedisClientCluster.java</url>
           <line>8</line>
@@ -5899,29 +6463,25 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../mybatis/e3-item-web/src/main/webapp/js/e3mall.js</url>
           <line>2</line>
-          <properties />
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../mybatis/e3-portal-web/src/main/webapp/js/e3mall.js</url>
           <line>1</line>
-          <properties />
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../mybatis/e3-portal-web/src/main/webapp/js/e3mall.js</url>
           <line>2</line>
-          <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/../mybatis/e3-portal-web/src/main/webapp/js/e3mall.js</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="143" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="144" />
+      <option name="time" value="149" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
@@ -5934,227 +6494,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-service/src/main/java/cn/e3mall/sso/service/impl/LoginServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-web/src/main/java/cn/e3mall/sso/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-web/src/main/java/cn/e3mall/sso/controller/RegitsterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-web/src/main/webapp/WEB-INF/jsp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="136" column="70" lean-forward="false" selection-start-line="136" selection-start-column="70" selection-end-line="136" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-web/src/main/java/cn/e3mall/sso/controller/TokenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-web/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-interface/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-interface/src/main/java/cn/e3mall/cart/service/CartService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="80" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/java/cn/e3mall/cart/service/impl/CartServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/conf/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/conf/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-service/src/main/resources/spring/applicationContext-redis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390">
-          <caret line="22" column="88" lean-forward="false" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-web/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="54" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-464">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/resources/conf/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/java/cn/e3mall/cart/controller/CartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-740">
-          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-pojo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-web/src/main/java/cn/e3mall/cart/interceptor/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="38" column="47" lean-forward="false" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-interface/src/main/java/cn/e3mall/sso/service/TokenService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-interface/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6162,9 +6505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5360">
           <caret line="268" column="37" lean-forward="false" selection-start-line="268" selection-start-column="37" selection-end-line="268" selection-end-column="37" />
-          <folding>
-            <marker date="1509003971536" expanded="true" signature="13989:14059" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -6172,7 +6512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6180,10 +6519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508827128226" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
-            <marker date="1508827128226" expanded="true" signature="570:774" ph="SELECT a.id,... tb_item" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -6191,15 +6526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6207,15 +6533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6223,7 +6540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6231,7 +6547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-240">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6239,7 +6554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6255,7 +6569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6271,7 +6584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6279,7 +6591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6287,7 +6598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6295,7 +6605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6303,7 +6612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6311,7 +6619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6319,11 +6626,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle">
+    <entry file="file://$PROJECT_DIR$/../mybatis/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -6333,16 +6639,240 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-interface/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="340">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-interface/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-activemq.xml" />
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-sso-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/java/cn/e3mall/cart/service/impl/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="111" column="4" lean-forward="false" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-interface/src/main/java/cn/e3mall/cart/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="59" lean-forward="false" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/src/main/webapp/WEB-INF/jsp/order-cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/src/main/java/cn/e3mall/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/TbOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="72" lean-forward="false" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-web/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="56" column="41" lean-forward="false" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-interface/src/main/java/cn/e3mall/order/pojo/OrderInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-interface/src/main/java/cn/e3mall/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-cart-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/mybatismapper/ItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <marker date="1508827128226" expanded="true" signature="281:462" ph="SELECT a.id,... tb_item" />
+            <marker date="1508827128226" expanded="true" signature="570:774" ph="SELECT a.id,... tb_item" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="65" lean-forward="false" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-search-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="80" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="39" column="65" lean-forward="false" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-order-service/src/main/java/cn/e3mall/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatis/e3-manager-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -6401,7 +6931,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web Gradle : e3-cart-service-1.0-SNAPSHOT.war|e3-cart-service_main|e3-cart-service</last-edited>
+          <last-edited>Web Gradle : e3-order-web-1.0-SNAPSHOT.war|e3-order-web_main|e3-order-web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

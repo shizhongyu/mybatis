@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/../mybatis/e3-manager-web" />
             <option value="$PROJECT_DIR$/../mybatis/e3-order-interface" />
             <option value="$PROJECT_DIR$/../mybatis/e3-order-service" />
+            <option value="$PROJECT_DIR$/../mybatis/e3-order-web" />
             <option value="$PROJECT_DIR$/../mybatis/e3-portal-web" />
             <option value="$PROJECT_DIR$/../mybatis/e3-search" />
             <option value="$PROJECT_DIR$/../mybatis/e3-search-interface" />
